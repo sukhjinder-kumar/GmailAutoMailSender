@@ -1,0 +1,10 @@
+importlib_metadata==8.0.0
+Markdown==3.6
+numpy==2.0.0
+pandas==2.2.2
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+pytz==2024.1
+six==1.16.0
+tzdata==2024.1
+zipp==3.19.2

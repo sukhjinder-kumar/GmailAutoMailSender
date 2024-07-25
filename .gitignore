@@ -1,0 +1,11 @@
+# Ignore environment configuration file
+.env
+
+# Ignore Gmail environment directory
+GmailEnv/
+
+# Ignore professor contacts CSV file
+ProfContacts.csv
+
+# Ignore MailBody.md
+MailBody.md
